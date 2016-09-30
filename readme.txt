@@ -30,8 +30,6 @@ Installing \"Wp FastClick\" can be done either by searching for \"Wp FastClick\"
 1. Activate the plugin through the \'Plugins\' menu in WordPress
 1. Visit the settings screen and configure, as desired.
 
-== Screenshots ==
-1. Touch devices
 
 = How do I contribute? =
 

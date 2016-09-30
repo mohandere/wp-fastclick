@@ -146,7 +146,7 @@ final class WP_FastClick {
 	 * @since    1.0.0
 	 */
 	 public function enqueue_scripts() {
-		 wp_enqueue_script( $this->token, plugin_dir_url( __FILE__ ) . 'assets/js/dest/wp-fastclick.min.js', array( 'jquery' ), $this->version, false );
+		 wp_enqueue_script( $this->token, plugin_dir_url( __FILE__ ) . 'js/dest/wp-fastclick.min.js', array( 'jquery' ), $this->version, false );
 	 }
 
 } // End Class

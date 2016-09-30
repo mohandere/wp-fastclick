@@ -13,10 +13,10 @@ module.exports = function(grunt) {
       },
       master: {
         files: {
-          'assets/js/dest/wp-fastclick.min.js':
+          'js/dest/wp-fastclick.min.js':
           [
-            'assets/js/vendor/fastclick.js',
-            'assets/js/src/wp-fastclick.js'
+            'js/vendor/fastclick.js',
+            'js/src/wp-fastclick.js'
           ]
         }
       }
