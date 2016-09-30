@@ -7,7 +7,7 @@
  * Author: Mohan Dere
  * Author URI: https://geekymohan.wordpress.com/
  * Requires at least: 4.0.0
- * Tested up to: 4.0.0
+ * Tested up to: 4.6.1
  *
  * @package wp-fastclick
  * @category Core
