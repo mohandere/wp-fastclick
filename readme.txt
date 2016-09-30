@@ -1,53 +1,46 @@
-=== Starter Plugin ===
-Contributors:
-Donate link:
-Tags:
+=== Wp FastClick ===
+Contributors: deremohan
+Tags: fastclick, touch, mobile
 Requires at least: 4.0.0
-Tested up to: 4.0.0
-Stable tag: 1.0.0
+Tested up to: 4.6.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Hey there! I'm your new starter plugin.
+Wp FastClick plugin remove click delays on browsers with touch UIs.
 
 == Description ==
+Why does the delay exist?
 
-Hey there! I'm your new starter plugin.
+According to Google:
 
-Looking for a helping hand? [View plugin documentation](http://domain.com/).
+...mobile browsers will wait approximately 300ms from the time that you tap the button to fire the click event. The reason for this is that the browser is waiting to see if you are actually performing a double tap.
+
+
+The aim is to make your application/website feel less laggy and more responsive while avoiding any interference with your current logic.
 
 == Usage ==
 
-Place some text here, explaining how to use this plugin. Keep it clear and easy to read (short sentences).
+Just activate plugin and see results on touch devices.
 
 == Installation ==
-
-Installing "Starter Plugin" can be done either by searching for "Starter Plugin" via the "Plugins > Add New" screen in your WordPress dashboard, or by using the following steps:
+Installing \"Wp FastClick\" can be done either by searching for \"Wp FastClick\" via the \"Plugins > Add New\" screen in your WordPress dashboard, or by using the following steps:
 
 1. Download the plugin via WordPress.org.
-1. Upload the ZIP file through the "Plugins > Add New > Upload" screen in your WordPress dashboard.
-1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Upload the ZIP file through the \"Plugins > Add New > Upload\" screen in your WordPress dashboard.
+1. Activate the plugin through the \'Plugins\' menu in WordPress
 1. Visit the settings screen and configure, as desired.
 
-== Frequently Asked Questions ==
+== Screenshots ==
+1. Touch devices
 
 = How do I contribute? =
 
-We encourage everyone to contribute their ideas, thoughts and code snippets. This can be done by forking the [repository over at GitHub](http://github.com/mattyza/starter-plugin/).
-
-== Screenshots ==
-
-1. The settings screen.
-
-
-== Upgrade Notice ==
-
-= 1.0.0 =
-* XXXX-XX-XX
-* Initial release. Woo!
+We encourage everyone to contribute their ideas, thoughts and code snippets. This can be done by forking the [repository over at GitHub](https://github.com/mohandere/wp-fastclick).
 
 == Changelog ==
-
 = 1.0.0 =
-* XXXX-XX-XX
-* Initial release. Woo!
+* Initial release.
+
+== Upgrade Notice ==
+= 1.0.0 =
+* Initial release.
