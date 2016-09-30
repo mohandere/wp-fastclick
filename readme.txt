@@ -9,6 +9,9 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Wp FastClick plugin remove click delays on browsers with touch UIs.
 
 == Description ==
+
+This plugin uses fastclick.js[https://ftlabs.github.io/fastclick/]
+
 Why does the delay exist?
 
 According to Google:
