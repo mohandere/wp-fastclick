@@ -3,6 +3,7 @@ Contributors: deremohan
 Tags: fastclick, touch, mobile
 Requires at least: 4.0.0
 Tested up to: 4.6.1
+Stable tag: 4.6.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -33,6 +34,7 @@ Installing \"Wp FastClick\" can be done either by searching for \"Wp FastClick\"
 1. Activate the plugin through the \'Plugins\' menu in WordPress
 1. Visit the settings screen and configure, as desired.
 
+== Frequently Asked Questions ==
 
 = How do I contribute? =
 
